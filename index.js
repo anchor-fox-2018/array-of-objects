@@ -6,7 +6,7 @@ function createObj(name,phase,gender){
 createObj('Akbar', 1, 'male');
 createObj('Icha', 1, 'female');
 
-console.log(arr);
+//console.log(arr);
 
 //Release 1
 function getData(name){
